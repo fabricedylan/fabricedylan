@@ -1,1 +1,1 @@
-Concevoir avant de coder. Étudiant en Génie Logiciel (L2), je me passionne pour la création de bases de données optimisées et la modélisation de systèmes complexes. Mon focus : la clarté de l'UML alliée à la puissance de Java pour bâtir des solutions logicielles fiables.
+Concevoir avant de coder. Étudiant en Génie Logiciel (L2), je me passionne pour la création de bases de données optimisées et la modélisation de systèmes complexes. Mon focus : la clarté de l'UML alliée à la puissance de Java pour bâtir des solutions logicielles fiables.✌😎
